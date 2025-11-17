@@ -1,0 +1,15 @@
+{
+  "name": "linea-gas-checker",
+  "version": "1.0.0",
+  "description": "Simple Linea network gas checker (EIP-1559 recommendations)",
+  "type": "module",
+  "bin": {
+    "linea-gas-checker": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "0versize",
+  "license": "MIT",
+  "dependencies": {}
+}
